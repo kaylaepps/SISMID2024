@@ -20,5 +20,4 @@ plot2 = covid %>%
   geom_line() +
   facet_wrap(~county, scales = "free")
 
-
-
+## peepeepoopoo
